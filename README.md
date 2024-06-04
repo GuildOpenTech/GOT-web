@@ -47,9 +47,13 @@ To begin exploring the dynamic learning environment of the GOT Learning Platform
 
 ## How to Contribute
 
+You can contribute on following repositories :
+- [GOT-Learn-Front](https://github.com/GuildOpenTech/got-learn-Front)
+- [GOT-Learn-API](https://github.com/GuildOpenTech/got-learn-API)
+
 Contributions are crucial to the vitality of our community:
 1. **Fork the repository**
-2. **Create a feature branch** (e.g., `new-course-module`)
+2. **Create a feature branch** (e.g., `feature/new-course-module`, `fix/subscription-form`)
 3. **Commit your changes**
 4. **Push to your fork**
 5. **Submit a pull request**
