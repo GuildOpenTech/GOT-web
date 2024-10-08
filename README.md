@@ -1,4 +1,4 @@
-# GOT-Learn
+# GOT-Web
 
 ## Overview
 
