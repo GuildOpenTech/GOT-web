@@ -2,7 +2,7 @@
 
 ## Overview
 
-The GOT Learning Platform is a pioneering project designed to promote universal access to technological education, encourage international cooperation, and inspire innovation and social responsibility. Our platform is committed to educational accessibility for all, fostering inclusion and solidarity across a global community.
+The GOT Web Platform is a pioneering project designed to promote universal access to technological education, encourage international cooperation, and inspire innovation and social responsibility. Our platform is committed to educational accessibility for all, fostering inclusion and solidarity across a global community.
 
 ## Community Goals
 
